@@ -3,7 +3,7 @@
 module NumbersAndWords
   module Translations
     class Hr < Base
-      include NumbersAndWords::Translations::Families::Cyrillic
+      include NumbersAndWords::Translations::Families::Latin
       include NumbersAndWords::Translations::Extensions::FractionSignificance
     end
   end
