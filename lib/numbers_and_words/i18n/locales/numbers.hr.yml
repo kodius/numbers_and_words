@@ -1,0 +1,71 @@
+hr:
+  numbers:
+    ones: [nula, jedan, dva, tri, četiri, pet, šest, sedam, osam, devet]
+    teens: [_, jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest]
+    tens: [_, deset, dvadeset, trideset, četrdeset, pedeset, šezdeset, sedamdeset, osamdeset, devedeset]
+    hundreds: stotina
+    mega: [_, tisuća, milijun, milijarda, bilijun, bilijarda, trilijun, trilijarda, kvadrilijun, kvadrilijarda, kvintilijun, kvintilijarda, seksilijun, seksilijarda, septilijun, septilijarda, oktilijun]
+    ordinal:
+      ones: [nulto, prvo, drugo, treće, četvrto, peto, šesto, sedmo, osmo, deveto]
+      teens: [deseto, jedanaesto, dvanaesto, trinaesto, četrnaesto, petnaesto, šesnaesto, sedamnaesto, osamnaesto, devetnaesto]
+      tens: [_, deseto, dvadeseto, trideseto, četrdeseto, pedeseto, šezdeseto, sedamdeseto, osamdeseto, devedeseto]
+      hundreds: stoti
+      mega: [_, tisućiti, milijunski, milijardni, bilijunski, bilijardni, trilijunski, trilijardni, kvadrilijunski, kvadrilijardni, kvintilijunski, kvintilijardni, seksilijunski, seksilijardni, septilijunski, septilijardni, oktilijunski]
+    micro: [_, desetinke, stotinke, tisućinke, milijuninke, milijardinke, bilijuninke, bilijardinke, trilijuninke, trilijardinke, kvadrilijuninke, kvadrilijardinke, kvintilijuninke, kvintilijardinke, seksilijuninke, seksilijardinke, septilijuninke, septilijardinke, oktilijuninke]
+    tenths:
+      one: desetinka
+      other: desetinki
+    hundredths:
+      one: stotinka
+      other: stotinki
+    thousandths:
+      one: tisućinka
+      other: tisućinki
+    millionths:
+      one: milijunka
+      other: milijunki
+    billionths:
+      one: milijardinka
+      other: milijardinke
+    trillionths:
+      one: bilijunka
+      other: bilijunki
+    quadrillionths:
+      one: bilijardinka
+      other: bilijardinke
+    quintillionths:
+      one: trilijunka
+      other: trilijunki
+    sextillionths:
+      one: trilijardinka
+      other: trilijardinke
+    septillionths:
+      one: kvadrilijunka
+      other: kvadrilijunki
+    octillionths:
+      one: kvadrilijardinka
+      other: kvadrilijardinke
+    nonillionths:
+      one: kvintilijunka
+      other: kvintilijunki
+    decillionths:
+      one: kvintilijardinka
+      other: kvintilijardinke
+    undecillionths:
+      one: seksilijunka
+      other: seksilijunki
+    duodecillionths:
+      one: seksilijardinka
+      other: seksilijardinke
+    tredecillionths:
+      one: septilijunka
+      other: septilijunki
+    quattuordecillionths:
+      one: septilijardinka
+      other: septilijardinke
+    micro_separator: i
+    micro_prefix:
+      tens: deset
+      hundreds: stotina
+      union: '-'
+    union: i
