@@ -136,6 +136,7 @@ Gem::Specification.new do |s|
     "lib/numbers_and_words/strategies/figures_converter/languages/hu.rb",
     "lib/numbers_and_words/strategies/figures_converter/languages/hy.rb",
     "lib/numbers_and_words/strategies/figures_converter/languages/it.rb",
+    "lib/numbers_and_words/strategies/figures_converter/languages/hr.rb",
     "lib/numbers_and_words/strategies/figures_converter/languages/ka.rb",
     "lib/numbers_and_words/strategies/figures_converter/languages/kz.rb",
     "lib/numbers_and_words/strategies/figures_converter/languages/lt.rb",
